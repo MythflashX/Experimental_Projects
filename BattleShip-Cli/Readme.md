@@ -1,1 +1,1 @@
-
+One week into learning Java, I became curious about the entire object-oriented (OO) thought process. The idea of objects talking to each other fascinated me, so I decided to work on a mini project to learn how to make that happen. This CLI version of Battleship lets you experience basic OO principles while having fun sinking some ships!
