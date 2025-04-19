@@ -18,7 +18,9 @@ This tiny tool was my solution.
 It's small, simple — but it fits right into my workflow and actually helps me stay consistent.
 
 Built with a bit of boredom, a lot of curiosity, and no unnecessary overhead.
-Made by @Mytx. Plus Scripting is super fun xD.
+Plus Scripting is super fun xD.
+
+Made by @Mytx.
 
 ✨ Features
 * Add new topics to a card
