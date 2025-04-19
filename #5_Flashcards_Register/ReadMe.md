@@ -4,6 +4,7 @@ A light-weight terminal-based tool to quickly register, remove, sort, and search
 Built to make learning (and forgetting less) a little bit easier.
 
 DEMO
+
 ![Demo Screenshot](assets/demo.png)
 
 Like everyone else, I tend to forget what I read if I don't use it often.
