@@ -5,7 +5,7 @@ Built to make learning (and forgetting less) a little bit easier.
 
 DEMO
 
-![Demo Screenshot](assets/2025-04-19-140619_hyprshot.png)
+![Demo Screenshot](assets/2025-04-19-141436_hyprshot.png)
 ![Demo Screenshot](assets/2025-04-19-140707_hyprshot.png)
 
 Like everyone else, I tend to forget what I read if I don't use it often.
