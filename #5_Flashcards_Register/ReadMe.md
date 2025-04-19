@@ -5,7 +5,8 @@ Built to make learning (and forgetting less) a little bit easier.
 
 DEMO
 
-![Demo Screenshot](assets/demo.png)
+![Demo Screenshot](assets/2025-04-19-140619_hyprshot.png)
+![Demo Screenshot](assets/2025-04-19-140707_hyprshot.png)
 
 Like everyone else, I tend to forget what I read if I don't use it often.
 Traditional note-taking didn't work for me because I rarely reviewed my notes.
